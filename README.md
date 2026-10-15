@@ -3,7 +3,7 @@
 Separate harmless proof for the `assetSources[].url` -> iframe `src` path.
 The `javascript:` payload modifies only the top-level Create DOM with a marker.
 
-- Public host: https://create-asset-source-xss-poc-20261015.netlify.app
+- Public host: https://lmzkjmiajzj-lgtm.github.io/netlify-create-asset-source-xss-owned-poc/
 - Marker: `data-netlify-create-asset-source-xss="confirmed"`
 - No cookies, tokens, account data, or network exfiltration are collected.
 
