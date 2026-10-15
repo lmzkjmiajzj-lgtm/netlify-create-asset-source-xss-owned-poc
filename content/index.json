@@ -1,0 +1,6 @@
+{
+  "type": "AssetSourceProof",
+  "title": "Asset Source URL XSS Proof",
+  "description": "Owned-account harmless marker",
+  "heroImage": "assets/safe.svg"
+}

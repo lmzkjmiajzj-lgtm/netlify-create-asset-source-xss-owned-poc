@@ -1,0 +1,14 @@
+{
+  "name": "netlify-create-asset-source-xss-poc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "node server.js", "build": "node build.js" },
+  "dependencies": {
+    "@stackbit/cms-git": "1.0.38",
+    "@stackbit/types": "2.1.15"
+  },
+  "devDependencies": {
+    "@stackbit/sdk": "2.1.21",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "netlify-create-asset-source-xss",
+  "finding": "assetSources iframe URL accepts javascript and executes in inherited Create origin",
+  "marker": "data-netlify-create-asset-source-xss=confirmed",
+  "payload": "harmless DOM marker only",
+  "scope": "owned-account research fixture"
+}
